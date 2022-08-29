@@ -1,0 +1,14 @@
+doctype html
+html(lang="en")
+    head
+        include ./views/partials/head
+        include ./views/partials/noscript
+        
+    body 
+        main.app
+            .webgl__wrapper 
+                canvas.webgl
+            // To implement smooth-scrolling
+            .app__wrapper
+
+        script(src="main.js") 
