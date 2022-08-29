@@ -1,6 +1,8 @@
-# Deepak Gangwar Frontend Developer Portfolio '22
+# 2D Canvas Curve Page Transition
 
-Deepak Gangwar is a frontend developer working with brands and individuals across the world. Individual with an eye for good design and passionate about motion and delivering immersive experiences for the we. Accepting freelance work since July 2022.
+Something I was wanting to build for so long. More page transitions on the way. 👀 
+
+![2d canvas curve transition](assets/curve.gif)
 
 ### Installation
 
